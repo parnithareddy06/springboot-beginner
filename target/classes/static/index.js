@@ -1,1 +1,1 @@
-alert("Hello from javaScript");
+//alert("Hello from javaScript");

@@ -1,3 +1,43 @@
 h1 {
     color:cadetblue
 }
+
+.navbar{
+    border-width: 2px;
+    border-color: gray;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+    background-color:aliceblue;
+}
+
+.navbar a{
+    padding: 25px;
+    text-decoration: none;
+    color: gray;
+}
+
+.navbar a:hover {
+    color: black;
+}
+
+body {
+    margin: 0px;
+    background-color:aquamarine;
+}
+
+.Card {
+    border: 2px solid gray;
+    width: 350px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.Card img {
+    width: 100%;
+}
